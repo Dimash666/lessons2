@@ -1,0 +1,99 @@
+"""
+a = 17*3
+b = 12*5
+c = 12**3
+d = 13**7
+e = 4**5
+f = 512+512
+
+print(a > b)
+print(c > d)
+print(e > f)
+
+da = 17925
+db = (34**2)
+dc = (26**3)
+dd = (17**33)
+de = (4394*4)
+
+print(da >= db)
+print(da >= dc)
+print(da >= dd)
+print(da >=de)
+
+g = 13 + 200
+l = 17 + 300
+
+print(g + l)
+
+gl = g + l 
+print(gl * 20)
+print(gl ** 2)
+gld = gl ** 2 
+print(gld - 193432)
+
+a = 22*3
+b = 22*1
+c = 22*4
+
+print(a > b)
+print(c > a)
+
+d = 7
+g = 3
+t = 4.8
+
+print(d % g * t)
+
+j = 21*1
+k = 7*3
+print(j == k)
+
+i = 22*2
+r = 11*7
+
+print(i > r)
+
+a = -21
+b = 10 
+print(a // b)
+
+a = 23 
+b = 77
+print((a / b)*100)  
+
+a = 1998
+b = 2021
+print((b-a)-2)
+print((b-a)+2)
+
+a = 25 
+b = 75 
+c = 10
+d = 95
+
+print((a+b+c+d)/4)
+
+a = 20
+b = 10 
+c = 11.75
+d = 13
+e = 600
+
+print(a-e**(b/d)) %e
+
+a = 3.14
+b = 3.14
+c = 3.14 
+print((3.14+3.14)*3)
+"""
+
+
+print(2**100)
+a = 284 * 7
+b = 250.25 * 8 
+print(b - a)
+
+g = 784
+h = 387
+print((g - h)/2)
